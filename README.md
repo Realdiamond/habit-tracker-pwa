@@ -1,5 +1,7 @@
 # Habit Tracker PWA
 
+**[🚀 View Live Demo](https://habit-tracker-pwa-eight.vercel.app/)**
+
 A Progressive Web Application for tracking daily habits, built with **Next.js 16**, **React 19**, and **TypeScript**. All data is persisted entirely in the browser using `localStorage` — no backend required.
 
 ## Project Overview
@@ -27,7 +29,7 @@ This app lets users sign up, log in, and manage a personal list of daily habits.
 ### Install
 
 ```bash
-git clone <repo-url> habit-tracker-pwa
+git clone https://github.com/Realdiamond/habit-tracker-pwa.git
 cd habit-tracker-pwa
 npm install
 ```
